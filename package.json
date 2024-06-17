@@ -48,7 +48,7 @@
     "multiparty": "^4.2.1",
     "@yetzt/nedb": "^1.8.0",
     "node-forge": "^0.10.0",
-    "ws": "^5.2.3",
+    "ws": "^8.17.1",
     "yauzl": "^2.10.0"
   },
   "engines": {
